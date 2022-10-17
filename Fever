@@ -5,7 +5,7 @@ int main() {
 	// your code goes here
 	int temp,i,n;
 	cin>>n;
-	for(i=0;i<n;i++)
+	for(i=0;i<n ;i++)
 	{
 	    cin>>temp;
 	    if(temp>98) cout<<"YES\n";
