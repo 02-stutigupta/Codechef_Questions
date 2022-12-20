@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t,n,x,k,res;
+	cin>>t;
+	while(t--)
+	{
+	    cin>>n>>x>>k;
+	    res = n*x;
+	    if(res>k) cout<<"no\n";
+	    else cout<<"yes\n";
+	}
+	return 0;
+}
