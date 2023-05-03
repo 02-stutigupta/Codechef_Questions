@@ -9,6 +9,8 @@ int main()
         int n;
         cin >> n;
        
+        
+        
        int time = 0;
        
        while(n!=50)
