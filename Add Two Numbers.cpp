@@ -9,6 +9,8 @@ int main()
    int a,b;
    while(t--){
     int sum=0;
+      
+      
     cin>>a>>b;
     sum=a+b;
     cout<<sum<<"\n";
